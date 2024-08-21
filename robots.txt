@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alessiobugetti.github.ioblank/sitemap.xml
+Sitemap: https://alessiobugetti.github.io/sitemap.xml
