@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic_color.png` and put it in the `img/` folder.
+I'm a [Computer Engineering](https://www.ing-inm.unifi.it) graduate from the [Università degli Studi di Firenze](https://www.unifi.it/it) with a deep passion for coding. I love creating clean, efficient code and enjoy contributing to open-source projects that make a difference. Beyond the world of tech, I’m also an avid sports enthusiast, with a particular love for football, tennis, and volleyball.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to explore my work or get in touch — I’m always open to new opportunities and ideas!
