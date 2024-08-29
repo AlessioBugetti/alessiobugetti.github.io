@@ -9,7 +9,7 @@ profile:
   image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Photo taken at the Valle dei Templi in Agrigento, Sicily</p>
+    <p>Valley of the Temples, Agrigento, Sicily<br>July 2023</p>
 
 education: true
 news: false # includes a list of news items
