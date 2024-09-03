@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>Valley of the Temples<br>Agrigento, Sicily<br>July 2023</p>
 
-education: true
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
